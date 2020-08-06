@@ -2,9 +2,8 @@
   "posts": [
     {
  "id": 1,
- "status": 101,
- "breakOrderId": "OQ4744628",
-  "message": "Broken order has been updated successfully"}
+   "status": 102,
+  "message": "Broken order was successfully updated"}
   ],
   "comments": [
     { "id": 1, "body": "Post broker order", "postId": 1 },
